@@ -1,0 +1,8 @@
+Snarked ftpparse.[ch] from ftpcopy and just the files that they depend on
+to create a libftpparse.  The original ftpcopy can be found here:
+
+http://ohse.de/uwe/ftpcopy/install.html
+
+ftpparse.[ch] is public domain reimplementation of ftpparse.c by Daniel 
+J. Bernsteins.  Some of its dependencies are GPLd so the whole library 
+is GPL.

@@ -15,3 +15,5 @@
 *.exe
 *.out
 *.app
+
+/auto-typesize.h
